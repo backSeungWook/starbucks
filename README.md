@@ -1,4 +1,6 @@
 # Starbucks 클론 예제
+# github 병합 시
+병합 시 marster <- 병합 할 브랜치
 # Main
 
 # Login
